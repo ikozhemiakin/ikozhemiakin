@@ -30,6 +30,13 @@ On Laravel: delivered a **task-management app** (priorities, drag-and-drop, PHPU
 [![PHPUnit](https://img.shields.io/badge/-PHPUnit-777BB4?style=flat-square&logo=phpunit&logoColor=white)](https://github.com/ikozhemiakin)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)](https://github.com/ikozhemiakin)
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/ikozhemiakin)
+[![Alpine.js](https://img.shields.io/badge/-Alpine.js-8BC0D0?style=flat-square&logo=alpine.js&logoColor=black)](https://github.com/ikozhemiakin)
+[![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)](https://github.com/ikozhemiakin)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://github.com/ikozhemiakin)
+[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://github.com/ikozhemiakin)
+[![Blade](https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/ikozhemiakin)
+
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://github.com/ikozhemiakin)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ikozhemiakin)
 [![Akeneo](https://img.shields.io/badge/-Akeneo-9452BA?style=flat-square)](https://github.com/ikozhemiakin)
