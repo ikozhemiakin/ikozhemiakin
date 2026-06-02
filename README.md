@@ -1,7 +1,5 @@
 ## Hi, I'm Ivan 👋
 
-<img src="https://raw.githubusercontent.com/ikozhemiakin/ikozhemiakin/master/assets/avatar.png" alt="Ivan Kozhemiakin" width="160" align="right" />
-
 ## About me
 
 Backend PHP developer with **8+ years** of commercial experience in **Magento 2 / Adobe Commerce** and hands-on **Laravel** projects. I build custom modules, REST/GraphQL APIs, ERP/PIM/marketplace integrations (Akeneo, Mirakl), import pipelines, and production support for EU eCommerce teams.
